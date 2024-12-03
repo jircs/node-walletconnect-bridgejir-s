@@ -15,7 +15,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "bluebird": "^3.7.2",
-    "fastify": "^2.15.3",
+    "fastify": "^3.0.0",
     "fastify-helmet": "^3.0.2",
     "pino-pretty": "^4.2.1",
     "redis": "^2.8.0",
